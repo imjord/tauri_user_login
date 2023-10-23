@@ -1,7 +1,7 @@
 # Tauri + React
 
-This template should help get you started developing with Tauri and React in Vite.
+### A simple Tauri application for users to login.
 
-## Recommended IDE Setup
+#### Usage
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+type in a username, password and a user.json file will be created. Next time you open the application you can log in with your credentials.
